@@ -1,7 +1,7 @@
-# Tea Shop App in React & Redux + Django
+# TR Tea Shop
 
 ```
-Tea Shop App, with a frontend built in React & Redux and a backend built in Django API.
+TR Tea Shop, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
@@ -21,7 +21,7 @@ Check out [API LIVE DEMO](https://backend-sarah.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone
+1. Git Clone https://github.com/xsarahkay/Tea-Shop.git
 
 ```
 git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
