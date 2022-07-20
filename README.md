@@ -21,10 +21,10 @@ Check out [API LIVE DEMO](https://backend-sarah.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/xsarahkay/Tea-Shop.git
+1. Git Clone 
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/xsarahkay/TR-Tea-Shop.git
 ```
 
 2. Backend setting
